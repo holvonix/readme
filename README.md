@@ -1,4 +1,4 @@
-## [Holvonix](https://holvonix.com/)
+## [Holvonix LLC](https://holvonix.com/)
 
 We're Holvonix LLC, a small game studio from sunny California - bringing bite-sized goodness to the world.
 
@@ -10,8 +10,9 @@ You can find our apps and games at [holvonix.com](https://holvonix.com/), includ
 
 ### Looking for source code? These are probably not the repositories you are looking for!
 
-Most of the repositories in this organization are various public forks of open-source code that we may or may not be using.
-Our actual app and game code is mostly proprietary and not visible here - sorry!
+Most of our app and game code is mostly proprietary and not visible here - sorry!
+
+Open-source repositories may be found at https://github.com/holvonix-open
 
 We do not accept bug reports or pull requests in any of the repositories on GitHub - see our website below for Support links if that's what you are looking for. If you submit feedback anyway, see our Terms of Service and Privacy Policy also linked below for how we handle that.
 
